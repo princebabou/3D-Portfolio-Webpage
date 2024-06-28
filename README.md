@@ -11,12 +11,19 @@ Features
 
 Tech Stack
 Three.js: The core framework driving our 3D magic.
+
 HTML/CSS: For structuring and styling the web interface.
+
 JavaScript: Powering the interactivity and dynamic elements.
+
 Getting Started
 Clone the repository.
+
 Install dependencies with npm install.
+
 Run the development server with npm start.
+
 Explore the 3D world at http://localhost:3000.
+
 Contributions
 We welcome contributions! Feel free to fork the repo, create a branch, and submit a pull request with your improvements or new features.
