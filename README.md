@@ -24,9 +24,9 @@ Clone the repository.
 
 Install dependencies with npm install.
 
-Run the development server with npm start.
+Run the development server with npm run dev.
 
-Explore the 3D world at http://localhost:3000.
+Explore the 3D world at http://localhost:5173.
 
 Contributions
 
